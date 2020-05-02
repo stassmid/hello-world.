@@ -7,7 +7,7 @@ import vk_api, random
 import pyowm
 from vk_api.longpoll import VkLongPoll, VkEventType
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
-login, password = "1log", "2par"
+login, password = "87086715626", "STAS2007"
 
 
 vk_session = vk_api.VkApi(login=login, password=password, app_id=2685278)
