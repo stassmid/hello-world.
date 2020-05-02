@@ -1,4 +1,5 @@
 import sys
+import os
 
 sys.path.insert(0, '../')
 from vk_api.longpoll import VkLongPoll, VkEventType
