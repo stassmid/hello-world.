@@ -1,1 +1,1 @@
-worker: python meme.py $PORT
+worker: python meme.py
